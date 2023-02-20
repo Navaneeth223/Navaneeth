@@ -68,6 +68,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth223&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
+  
+ <p align="left"> [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==Navaneeth223&hide_progress=true)(https://github.com/=Navaneeth223/github-readme-stats)
 
 
 
